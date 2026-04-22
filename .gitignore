@@ -1,0 +1,8 @@
+data/*
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+__pycache__/
+.venv/
+venv/
+env/
+.pixi/
